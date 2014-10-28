@@ -236,6 +236,22 @@
     "status": "assigned"
   },
   {
+    "alpha2": "AX",
+    "alpha3": "ALA",
+    "countryCallingCodes": [
+      "+248"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "ioc": "",
+    "languages": [
+      "swe"
+    ],
+    "name": "Aland Islands",
+    "status": "assigned"
+  },
+  {
     "alpha2": "AZ",
     "alpha3": "AZE",
     "countryCallingCodes": [
